@@ -43,7 +43,6 @@ Sales: transaction history, purchase type, and frequency
 
 Stores: branch locations and region-specific data
 
-(Source: generated via ChatGPT for simulation purposes)
 
 **Project Workflow**
 
